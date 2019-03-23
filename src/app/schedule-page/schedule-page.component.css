@@ -1,0 +1,40 @@
+.complete-schedule-cycle {
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+tr[class^="week-"] {
+  width: 130px;
+}
+
+table {
+  border:none;
+  border-collapse: collapse;
+}
+
+th {
+  border: 2px solid #000;
+}
+
+table td {
+  border-left: 1px solid #000;
+  border-right: 1px solid #000;
+}
+
+td:nth-child(n+2) {
+  min-width: 100px;
+}
+
+tr:nth-child(even) {
+   background-color: #dddddd;
+ }
+
+.schedule-header {
+  text-align: center;
+}
+
+.week-number-text {
+  margin-left: 10px;
+  margin-right: 10px;
+  width: 110px;
+}

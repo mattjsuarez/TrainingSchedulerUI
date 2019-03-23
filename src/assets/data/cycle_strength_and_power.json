@@ -1,0 +1,32 @@
+{
+  "dayLayout" : [
+    [
+      "Strength","Rest","Capacity","Rest","Strength","Rest","Rest"
+    ],
+    [
+      "Strength","Capacity","Rest","StrEnd","StrEnd","Rest","Rest"
+    ],
+    [
+      "Strength","StrEnd","Rest","StrEnd","StrEnd","Capacity","Rest"
+    ],
+    [
+      "Rest","EasyClimb","Rest","Rest","EasyClimb","Rest","Rest"
+    ]
+  ],
+  "drills" : [
+    "Campus Board",
+    "Limit Bouldering",
+    "Finger Board",
+    "Deadlift",
+    "Max Pull-up"
+  ],
+  "expertExercise" : [
+    "Full Planche",
+    "Human Flag",
+    "Front Lever",
+    "Pistol Squat",
+    "One Arm Pull-up",
+    "Muscle Up",
+    "Iron Cross"
+  ]
+}
