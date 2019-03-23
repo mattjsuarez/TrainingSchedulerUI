@@ -1,0 +1,24 @@
+{
+  "warmup" : "30-45 mins, steadily build grade",
+  "drill" : [
+    "Limit Boulder",
+    "Finger Board",
+    "Campus Board"
+  ],
+  "gym" : [
+    "Wrist Curl",
+    "Reverse Wrist Curl",
+    "Weighted Pull-ups",
+    "Expert Exercise",
+    "Dead lift"
+  ],
+  "expertExercise" : [
+    "Full Planche",
+    "Human Flag",
+    "Front Lever",
+    "Pistol Squat",
+    "One Arm Pull-up",
+    "Muscle Up",
+    "Iron Cross"
+  ]
+}
