@@ -1,11 +1,13 @@
 .complete-schedule-cycle {
   margin: 0 auto;
   margin-top: 50px;
+  table-layout: fixed;
+  width: 100%;
 }
 
-tr[class^="week-"] {
-  width: 130px;
-}
+/*tr[class^="week-"] {*/
+  /*width: 150px;*/
+/*}*/
 
 table {
   border:none;
@@ -19,6 +21,7 @@ th {
 table td {
   border-left: 1px solid #000;
   border-right: 1px solid #000;
+  width: 12.5%
 }
 
 td:nth-child(n+2) {
@@ -36,5 +39,4 @@ tr:nth-child(even) {
 .week-number-text {
   margin-left: 10px;
   margin-right: 10px;
-  width: 110px;
 }
